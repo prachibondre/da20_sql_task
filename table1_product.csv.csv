@@ -1,0 +1,21 @@
+"product_id","product_name","category","price","stock_quantity","supplier_id"
+1,"laptop","electronics",50000,50,1001
+2,"mouse","electronics",260,40,1002
+3,"keyboard","electronics",800,35,1003
+4,"monitor","electronics",12000,20,1004
+5,"printer","electronics",7000,15,1005
+6,"smartphone","electronics",25000,60,1006
+7,"tablet","electronics",18000,25,1007
+8,"headphones","electronics",1500,80,1008
+9,"webcam","electronics",900,30,1009
+10,"router","electronics",2200,45,1010
+11,"usb drive","electronics",500,100,1011
+12,"external hdd","electronics",4500,18,1012
+13,"graphics card","electronics",32000,10,1013
+14,"speaker","electronics",1200,55,1014
+15,"projector","electronics",25000,8,1015
+16,"scanner","electronics",6000,12,1016
+17,"microphone","electronics",1100,38,1017
+18,"power bank","electronics",900,70,1018
+19,"smartwatch","electronics",7000,22,1019
+20,"camera","electronics",15000,14,1020
