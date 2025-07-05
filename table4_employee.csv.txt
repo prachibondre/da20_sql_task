@@ -1,0 +1,16 @@
+"employee_id","name","deparement","salary","experience","performance_score"
+1,"Alice Johnson","Engineering",85000,5,4.5
+2,"Bob Smith","Marketing",65000,3,4.0
+3,"Carol Lee","Finance",72000,4,4.2
+4,"David Kim","Engineering",90000,6,4.8
+5,"Eva Brown","HR",60000,2,3.9
+6,"Frank White","Engineering",87000,5,4.4
+7,"Grace Green","Marketing",67000,3,4.1
+8,"Henry Black","Finance",75000,4,4.3
+9,"Ivy Adams","HR",61000,2,3.8
+10,"Jack Turner","Engineering",92000,7,4.9
+11,"Karen Scott","Marketing",69000,4,4.0
+12,"Leo Evans","Finance",78000,5,4.5
+13,"Mona Clark","HR",63000,3,4.0
+14,"Nate Lewis","Engineering",88000,6,4.6
+15,"Olivia Young","Marketing",70000,4,4.2

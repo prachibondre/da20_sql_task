@@ -1,0 +1,26 @@
+"project_id","project_name"."budget","team_size","status","progress_percentage"
+1,"Apollo","120000",8,"Active",45
+2,"Orion","95000",5,"Completed",100
+3,"Zephyr","150000",10,"Active",60
+4,"Helios","80000",6,"On Hold",20
+5,"Atlas","200000",12,"Active",75
+6,"Gemini","110000",7,"Completed",100
+7,"Vega","130000",9,"Active",55
+8,"Nova","90000",5,"Cancelled",10
+9,"Luna","140000",8,"Active",65
+10,"Phoenix","125000",7,"Active",50
+11,"Pegasus","105000",6,"Completed",100
+12,"Aurora","160000",11,"Active",70
+13,"Titan","175000",13,"Active",80
+14,"Comet","95000",5,"On Hold",30
+15,"Echo","115000",8,"Active",60
+16,"Odyssey","135000",9,"Active",55
+17,"Pioneer","120000",7,"Completed",100
+18,"Horizon","145000",10,"Active",65
+19,"Mercury","100000",6,"Cancelled",15
+20,"Neptune","155000",12,"Active",75
+21,"Cosmos","170000",14,"Active",85
+22,"Stellar","90000",5,"On Hold",25
+23,"Orbit","125000",8,"Active",50
+24,"Galaxy","180000",15,"Active",90
+25,"Quasar","160000",11,"Active",70
